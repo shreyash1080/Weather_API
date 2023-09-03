@@ -101,3 +101,42 @@ cursor:pointer;
 #cityInput {
     padding-left: 5ch;
 }
+
+
+
+
+media (max-width: 768px) {
+    .card {
+        width: 90%;
+    }
+
+    .search input {
+        padding: 10px 15px; /* Adjust padding for smaller screens */
+    }
+
+    .weather h1 {
+        font-size: 60px; /* Adjust font size for smaller screens */
+    }
+
+    .weather h2 {
+        font-size: 35px; /* Adjust font size for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .card {
+        width: 100%;
+    }
+
+    .search input {
+        padding: 10px; /* Further adjust padding for smaller screens */
+    }
+
+    .weather h1 {
+        font-size: 40px; /* Further adjust font size for smaller screens */
+    }
+
+    .weather h2 {
+        font-size: 25px; /* Further adjust font size for smaller screens */
+    }
+}
