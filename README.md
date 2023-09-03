@@ -23,15 +23,19 @@ Open the index.html file in a web browser to use the app.
 Enter a city name and click "Search" to fetch weather data.
 
 
-#Weather App Screenshot
+## Weather App Screenshot
+
+
+
+
 ![image](https://github.com/shreyash1080/Weather_API/assets/76811518/b521afc7-80fd-4c36-9043-a8f2781c8736)
 
 
 
-#License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-#Acknowledgments
+## Acknowledgments
 Thanks to OpenWeatherMap for providing the weather data API.
 Contributing
 If you'd like to contribute to this project, please follow our Contribution Guidelines.
